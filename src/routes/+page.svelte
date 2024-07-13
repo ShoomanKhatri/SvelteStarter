@@ -1,3 +1,15 @@
-<h1>Welcome to your library project</h1>
-<p>Create your package using @sveltejs/package and preview/showcase your work with SvelteKit</p>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<!-- src/routes/+page.svelte -->
+<script>
+  import Navbar from '../lib/components/navbar.svelte';
+</script>
+
+<style>
+  /* Add any page-specific styles here */
+</style>
+
+<div class=" flex flex-col  items-center bg-gray-100">
+ <div class="">
+    <Navbar />
+ </div>
+ 
+</div>
