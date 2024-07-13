@@ -30,9 +30,9 @@
 
   <div class={`md:hidden ${isOpen ? 'block' : 'hidden'}`}>
     <div class="px-2 pt-2 pb-3 space-y-1 sm:px-3">
-      <a href="#" class="text-white-700 hover:text-white-900 block px-3 py-2 rounded-md text-base font-medium">Home</a>
-      <a href="#" class="text-white-700 hover:text-white-900 block px-3 py-2 rounded-md text-base font-medium">About</a>
-      <a href="#" class="text-white-700 hover:text-white-900 block px-3 py-2 rounded-md text-base font-medium">Contact</a>
+      <a href="#" class="text-white-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Home</a>
+      <a href="#" class="text-white-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">About</a>
+      <a href="#" class="text-white-700 hover:text-white block px-3 py-2 rounded-md text-base font-medium">Contact</a>
       <a href="#" class="bg-blue-500 text-white hover:bg-blue-600 block px-3 py-2 rounded-md text-base font-medium">Login</a>
     </div>
   </div>
